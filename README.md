@@ -1,2 +1,2 @@
-# contacts-manager
-contacts-manager
+# contact-manager
+contact-manager
